@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pop_scope_sample/pages/home_page.dart';
-import 'package:pop_scope_sample/pages/page_one.dart';
+import 'package:pop_scope_sample/pages/page_two.dart';
 
 void main() {
   runApp(const MyApp());
